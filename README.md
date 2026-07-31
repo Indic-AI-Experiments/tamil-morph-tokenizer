@@ -1,10 +1,9 @@
 # Tamil Morphology-Aware Reversible Tokenizer
 
-> The current package is an audited research preview with an independently decodable
-> reversible token-stream prototype. The fixed token-ID vocabulary is specified in
-> `docs/TOKENIZER_OUTPUT_CONTRACT.md` and
-> `docs/REVERSIBLE_TOKENIZER_DESIGN.md`; repository extraction and publication
-> work are staged in `docs/REPOSITORY_AND_PUBLICATION_ROADMAP.md`.
+> The current package is an audited research release with an independently
+> decodable reversible token stream. The fixed token-ID vocabulary is specified
+> in `docs/TOKENIZER_OUTPUT_CONTRACT.md` and
+> `docs/REVERSIBLE_TOKENIZER_DESIGN.md`.
 
 A Python package for a morphology-aware Tamil tokenizer. It consumes versioned
 runtime assets from the independent Tamil morphology repository:
