@@ -1,0 +1,23 @@
+Tamil Morph Tokenizer
+Copyright 2026 Anand Murugan
+
+This product contains substantially modified work from ThamizhiMorph:
+Copyright 2020 Kengatharaiyer Sarveswaran, NLPC, University of Moratuwa.
+ThamizhiMorph is licensed under the Apache License, Version 2.0.
+
+The lexical/data layer includes evidence derived from the University of Madras
+Tamil Lexicon via the University of Chicago Digital South Asia Library, used
+under separate authorization permitting free use and free distribution of
+derivative works. Original and processed Tamil Lexicon word lists are not
+distributed.
+
+The lexical/data layer also incorporates material derived from Tamil
+Wiktionary and the Vuizur Wiktionary-Dictionaries project under their Creative
+Commons Attribution-ShareAlike/GFDL terms. The combined public lexical/data
+layer is distributed under CC BY-SA 4.0.
+
+Entity resources include Unicode CLDR data under the Unicode License v3 and
+Wikidata structured data under CC0 1.0.
+
+Detailed source URLs, versions, transformations, and component terms are in
+LICENSE_POLICY.md and docs/THIRD_PARTY_DATA_AND_LICENSE_MATRIX.md.

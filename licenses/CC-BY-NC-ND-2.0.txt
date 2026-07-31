@@ -1,0 +1,12 @@
+Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic
+(CC BY-NC-ND 2.0)
+
+Canonical license and legal code:
+
+https://creativecommons.org/licenses/by-nc-nd/2.0/
+https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode.en
+
+This file records the public license linked by the University of Chicago DSAL
+Tamil Lexicon page. The project relies separately on direct authorization to
+use the supplied data freely and distribute derivative works freely. Original
+and processed Tamil Lexicon word lists are not included in public bundles.

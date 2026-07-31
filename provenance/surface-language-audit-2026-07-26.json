@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "audit_date": "2026-07-26",
+  "method": {
+    "engine": "foma 0.10.0alpha",
+    "description": "Project each of the 12 FSTs onto its lower side, union the resulting languages, determinize and minimize, then count accepted paths without enumerating strings.",
+    "final_sandhi_policy": "The filtered union first rejects upper analyses containing +sandhic, +sandhik, +sandhip, or +sandhit. A surface remains whenever at least one analysis does not carry one of those final-linker tags.",
+    "external_cost_usd": 0.0
+  },
+  "inputs": {
+    "tokenizer_repository_commit": "789570741ed50321753911e6d7233dd2114bcece",
+    "morphology_repository_commit": "c9fe57cca09b0c6f51178386261232bc699dcc9a",
+    "morphology_lock_sha256": "2d4fe58fb292dbc0a7b2cc409076eb4603c4e7ef10cd4d594190f224daf18b43",
+    "fst_count": 12
+  },
+  "counts": {
+    "complete_without_final_sandhi_only": 2130878180,
+    "complete_unfiltered": 2395673242,
+    "final_sandhi_only": 264795062,
+    "core_without_productive_auxiliary": 205518097,
+    "productive_auxiliary": 1933322986,
+    "core_auxiliary_overlap": 7962903,
+    "noun_unfiltered_distinct_written_forms": 66340679
+  },
+  "automata": {
+    "complete_filtered": {
+      "states": 105934,
+      "arcs": 427561,
+      "paths": 2130878180,
+      "saved_sha256": "514f6df6bf059be645fa94b468e2a3a265e0d9aa89c388efaed584b4fa2828d1"
+    },
+    "complete_unfiltered": {
+      "states": 106447,
+      "arcs": 437469,
+      "paths": 2395673242,
+      "saved_sha256": "b8555c4666f5222c950560d230a68e057eab0ceadf9b36e92c83ede3ebb827ea"
+    }
+  },
+  "runtime_seconds": {
+    "filtered": 2.47,
+    "unfiltered": 1.8,
+    "total": 4.27
+  }
+}

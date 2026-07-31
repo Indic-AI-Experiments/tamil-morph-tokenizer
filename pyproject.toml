@@ -1,0 +1,58 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tamil-morph-tokenizer"
+version = "0.1.0rc10"
+description = "Reversible morphology-aware Tamil tokenizer using finite-state analyses"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Anand Murugan" }]
+license = { file = "LICENSE" }
+dependencies = [
+  "regex>=2024.5.15",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8",
+]
+hf = [
+  "datasets>=2.19",
+  "huggingface_hub>=0.23",
+  "transformers>=4.42",
+  "sentencepiece>=0.2",
+  "protobuf>=4",
+]
+server = [
+  "fastapi>=0.115,<1",
+  "uvicorn[standard]>=0.32,<1",
+]
+
+[project.scripts]
+tamil-morph-tokenize = "tamil_morph_tokenizer.cli:main"
+tamil-morph-tokenizer-api = "tamil_morph_tokenizer.api:main"
+
+[tool.setuptools]
+packages = ["tamil_morph_tokenizer"]
+include-package-data = false
+
+[tool.setuptools.package-data]
+tamil_morph_tokenizer = [
+  "data/fst-models/*.fst",
+  "data/entities/*.jsonl",
+  "data/entities/*.json",
+  "data/vocabulary/*.json",
+  "data/vocabulary/*.csv",
+  "data/vocabulary/*.txt",
+  "data/vocabulary/*.tsv",
+]
+
+[tool.setuptools.exclude-package-data]
+tamil_morph_tokenizer = [
+  "data/wordlists/*",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

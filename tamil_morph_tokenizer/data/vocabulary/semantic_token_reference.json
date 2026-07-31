@@ -1,0 +1,1999 @@
+{
+  "schema_version": "1.1.0",
+  "tokenizer_version": "0.1.0-rc10",
+  "count": 222,
+  "model_factor_region_count": 284,
+  "secondary_lexical_component_count": 62,
+  "secondary_lexical_components": [
+    {
+      "id": 965,
+      "token": "ஃபாசிசம்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning fascism; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 966,
+      "token": "அஃகடி",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning difficulty, trouble, or peril; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 967,
+      "token": "அஃகம்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning grain or spring water, depending on the lexical reading; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 968,
+      "token": "அஃகரம்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning the white madar shrub; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 969,
+      "token": "அடிப்படை",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning basis or foundation; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 970,
+      "token": "அடுத்து",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning next or following; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 971,
+      "token": "அடை",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning reach or attain; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 972,
+      "token": "அன்று",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning that day; not; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 973,
+      "token": "அல்லு",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning be not; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 974,
+      "token": "அழுத்தம்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning pressure; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 975,
+      "token": "ஆண்டு",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning year; rule; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 976,
+      "token": "இடம்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning place; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 977,
+      "token": "இரண்டு",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning two; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 978,
+      "token": "இரவு",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning night; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 979,
+      "token": "இரு",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning be, remain, or continue; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 980,
+      "token": "இறங்கு",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning descend; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 981,
+      "token": "இல்லை",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning not exist; no; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 982,
+      "token": "உட்படு",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning be included or subjected; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 983,
+      "token": "உரிய",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning appropriate or belonging to; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 984,
+      "token": "உலகம்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning world; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 985,
+      "token": "உள்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning inside; exist; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 986,
+      "token": "ஏற்ப",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning according to; accept; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 987,
+      "token": "ஒட்டி",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning adjoining or in connection with; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 988,
+      "token": "ஒன்று",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning one; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 989,
+      "token": "ஒரு",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning one or a; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 990,
+      "token": "ஒருவர்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning one person; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 991,
+      "token": "கட்டம்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning stage or block; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 992,
+      "token": "குறித்த",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning about or concerning; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 993,
+      "token": "கூடு",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning be possible; join; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 994,
+      "token": "கூறு",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning say; component; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 995,
+      "token": "கொள்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning take; reflexive or completive light verb; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 996,
+      "token": "சில",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning some; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 997,
+      "token": "தவிர",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning except; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 998,
+      "token": "தொடர்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning continue or follow; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 999,
+      "token": "தொடர்பு",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning connection; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1000,
+      "token": "நபர்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning person; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1001,
+      "token": "நிலை",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning state or condition; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1002,
+      "token": "நேரம்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning time; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1003,
+      "token": "பற்றி",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning about or concerning; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1004,
+      "token": "பின்னர்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning afterwards; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1005,
+      "token": "புறம்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning side or outside; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1006,
+      "token": "பேர்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning person or name; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1007,
+      "token": "போது",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning when or time; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1008,
+      "token": "போன்ற",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning like or similar to; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1009,
+      "token": "போன்று",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning like or in the manner of; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1010,
+      "token": "போல்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning like or as; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1011,
+      "token": "மக்கள்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning people; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1012,
+      "token": "மட்டும்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning only; up to; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1013,
+      "token": "மாட்டு",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning will not; be unable; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1014,
+      "token": "முடி",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning finish; be able; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1015,
+      "token": "மூலம்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning through or by means of; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1016,
+      "token": "வகை",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning kind or type; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1017,
+      "token": "வரை",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning until or up to; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1018,
+      "token": "வரையில்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning until or within the stated limit; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1019,
+      "token": "வா",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning come; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1020,
+      "token": "வாய்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning mouth; by way of; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1021,
+      "token": "வாறு",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning manner or way; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1022,
+      "token": "விட",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning than; leave; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1023,
+      "token": "விடு",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning leave, release, or completive light verb; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1024,
+      "token": "விதம்",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning kind or manner; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1025,
+      "token": "வேண்டு",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning need or want; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    },
+    {
+      "id": 1026,
+      "token": "வேளை",
+      "category": "Tamil lexical factor",
+      "description": "Tamil lexical factor meaning time or occasion; retained by lemma identity inside an analysis.",
+      "source": "FST-derived lexical factor"
+    }
+  ],
+  "entries": [
+    {
+      "id": 743,
+      "token": "<ABBREVIATION>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks an abbreviation.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 744,
+      "token": "<ACTION_NOMINAL>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks a verb-derived noun that names an action or event.",
+      "source": "project semantic mapping"
+    },
+    {
+      "id": 745,
+      "token": "<ADJECTIVAL_PARTICIPLE>",
+      "category": "participle",
+      "description": "Marks a verb form used to modify a noun.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 746,
+      "token": "<ASPECT_PERFECT>",
+      "category": "aspect",
+      "description": "Marks a completed action or a resulting state.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 747,
+      "token": "<ASPECT_PROSPECTIVE>",
+      "category": "aspect",
+      "description": "Marks an action viewed as expected or about to happen.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 748,
+      "token": "<AUX_ATTITUDINAL>",
+      "category": "grammatical or semantic feature",
+      "description": "Broad inherited FST label for an auxiliary construction that expresses the speaker's stance.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 749,
+      "token": "<CASE_ABL>",
+      "category": "case",
+      "description": "Ablative case: from, out of, or away from.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 750,
+      "token": "<CASE_ACC>",
+      "category": "case",
+      "description": "Accusative case: usually the direct object.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 751,
+      "token": "<CASE_DAT>",
+      "category": "case",
+      "description": "Dative case: usually to or for.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 752,
+      "token": "<CASE_GEN>",
+      "category": "case",
+      "description": "Genitive case: possession or an of-relation.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 753,
+      "token": "<CASE_INST>",
+      "category": "case",
+      "description": "Instrumental case: by, with, or using.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 754,
+      "token": "<CASE_LOC>",
+      "category": "case",
+      "description": "Locative case: in, at, or on.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 755,
+      "token": "<CASE_MARKER>",
+      "category": "case",
+      "description": "Broad inherited FST label indicating that a case marker is present.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 756,
+      "token": "<CASE_NOM>",
+      "category": "case",
+      "description": "Nominative or unmarked base case, often used for the subject.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 757,
+      "token": "<CASE_SOC>",
+      "category": "case",
+      "description": "Sociative case: with or together with.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 758,
+      "token": "<CASE_TRANS>",
+      "category": "case",
+      "description": "Translative or adverbial case-like form: as, becoming, or in a stated manner.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 759,
+      "token": "<CASE_VOC>",
+      "category": "case",
+      "description": "Vocative case used for direct address.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 760,
+      "token": "<CLITIC_ADD>",
+      "category": "clitic",
+      "description": "Additive clitic: also, too, or and.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 761,
+      "token": "<CLITIC_FOCUS>",
+      "category": "clitic",
+      "description": "Focus or emphatic clitic, often corresponding to தான்.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 762,
+      "token": "<COMPARATIVE>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks a comparison such as than, more, or less.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 763,
+      "token": "<COMPLEMENTIZER>",
+      "category": "grammatical or semantic feature",
+      "description": "Introduces a quoted, reported, or embedded clause.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 764,
+      "token": "<COMPOUND_MODIFIER>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks a noun used attributively before another word in a compound.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 765,
+      "token": "<COPULA>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks a copular expression that links a subject with a description or identity.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 766,
+      "token": "<COP_BECOME>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks a change into a state: become.",
+      "source": "project semantic mapping"
+    },
+    {
+      "id": 767,
+      "token": "<DEGREE>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks an amount or degree expression.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 768,
+      "token": "<DEICTIC>",
+      "category": "deixis",
+      "description": "General demonstrative or pointing meaning.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 769,
+      "token": "<DEICTIC_DIST>",
+      "category": "deixis",
+      "description": "Distal demonstrative: that, there, or then.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 770,
+      "token": "<DEICTIC_INTERROGATIVE>",
+      "category": "deixis",
+      "description": "Interrogative demonstrative: which, where, or when.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 771,
+      "token": "<DEICTIC_MED>",
+      "category": "deixis",
+      "description": "Medial demonstrative: an intermediate distance.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 772,
+      "token": "<DEICTIC_PROX>",
+      "category": "deixis",
+      "description": "Proximal demonstrative: this, here, or now.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 773,
+      "token": "<DEICTIC_SAME>",
+      "category": "deixis",
+      "description": "Marks identity or sameness: the same.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 774,
+      "token": "<DEICTIC_SITUATION>",
+      "category": "deixis",
+      "description": "Points to a situation or context.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 775,
+      "token": "<DEICTIC_TIME>",
+      "category": "deixis",
+      "description": "Points to a time.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 776,
+      "token": "<DEICTIC_TYPE>",
+      "category": "deixis",
+      "description": "Points to a kind or type.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 777,
+      "token": "<DERIV_AATTAM>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks the ஆட்டம்-derived manner or likeness construction.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 778,
+      "token": "<DETERMINER>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks a word that specifies or limits a noun.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 779,
+      "token": "<DISTRIBUTIVE>",
+      "category": "grammatical or semantic feature",
+      "description": "Distributive meaning: each, respective, or one by one.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 780,
+      "token": "<ENTITY_BRAND>",
+      "category": "named entity",
+      "description": "Named entity: brand.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 781,
+      "token": "<ENTITY_CITY>",
+      "category": "named entity",
+      "description": "Named entity: city.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 782,
+      "token": "<ENTITY_COUNTRY>",
+      "category": "named entity",
+      "description": "Named entity: country.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 783,
+      "token": "<ENTITY_ORG>",
+      "category": "named entity",
+      "description": "Named entity: organization.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 784,
+      "token": "<ENTITY_OTHER>",
+      "category": "named entity",
+      "description": "Named entity: other reviewed entity type.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 785,
+      "token": "<ENTITY_PERSON>",
+      "category": "named entity",
+      "description": "Named entity: person.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 786,
+      "token": "<ENTITY_PLACE>",
+      "category": "named entity",
+      "description": "Named entity: place.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 787,
+      "token": "<ENTITY_REGION>",
+      "category": "named entity",
+      "description": "Named entity: region.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 788,
+      "token": "<ENTITY_WORK>",
+      "category": "named entity",
+      "description": "Named entity: named creative work.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 789,
+      "token": "<EUPHONIC_AUGMENT>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks an inserted sound used to join morphemes smoothly.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 790,
+      "token": "<EVIDENTIAL_REPORTATIVE>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks information presented as reported rather than directly witnessed.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 791,
+      "token": "<EXISTENTIAL>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks existence or availability.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 792,
+      "token": "<FUTURE_ADJECTIVAL_PARTICIPLE>",
+      "category": "participle",
+      "description": "Marks a future-oriented verb form used to modify a noun.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 793,
+      "token": "<INDEFINITE>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks an indefinite meaning such as some or any.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 794,
+      "token": "<LETTER_NAME>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks a spoken or written letter name.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 795,
+      "token": "<MANNER_PURPOSE>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks a directed manner or intended outcome, often in -உமாறு.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 796,
+      "token": "<MEASUREMENT_UNIT>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks a unit of measurement.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 797,
+      "token": "<MODAL>",
+      "category": "modality",
+      "description": "Broad modal meaning such as ability, necessity, or possibility.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 798,
+      "token": "<MODAL_MUST>",
+      "category": "modality",
+      "description": "Necessity or obligation: must, should, or need to.",
+      "source": "reviewed lexical special or FST mapping"
+    },
+    {
+      "id": 799,
+      "token": "<MODAL_WORTHY>",
+      "category": "modality",
+      "description": "Marks suitability or worthiness.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 800,
+      "token": "<MOOD_CONDITIONAL>",
+      "category": "mood",
+      "description": "Conditional mood: if or under a condition.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 801,
+      "token": "<MOOD_OPTATIVE>",
+      "category": "mood",
+      "description": "Optative mood: a wish, hope, or blessing.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 802,
+      "token": "<MOOD_PARTICLE>",
+      "category": "mood",
+      "description": "Marks a particle that contributes mood.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 803,
+      "token": "<MOOD_PROHIBITIVE>",
+      "category": "mood",
+      "description": "Negative command: do not.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 804,
+      "token": "<MOOD_QUESTION>",
+      "category": "mood",
+      "description": "Marks a question.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 805,
+      "token": "<MORPH_AFFIRM>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for affirmative meaning; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 806,
+      "token": "<MORPH_ALT>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for alternative form or reading; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 807,
+      "token": "<MORPH_BEN>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for benefactive meaning; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 808,
+      "token": "<MORPH_CMPR>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for comparative meaning; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 809,
+      "token": "<MORPH_CONJUNCTION>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for conjunction; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 810,
+      "token": "<MORPH_DEICTIC>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for deictic or demonstrative meaning; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 811,
+      "token": "<MORPH_EXCLAM>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for exclamation; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 812,
+      "token": "<MORPH_INT>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for intensifying or interrogative legacy label; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 813,
+      "token": "<MORPH_INTERJECTION>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for interjection; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 814,
+      "token": "<MORPH_INTERROGATIVE>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for interrogative meaning; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 815,
+      "token": "<MORPH_LIMIT>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for limit or restriction; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 816,
+      "token": "<MORPH_LOAN>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for loanword; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 817,
+      "token": "<MORPH_NEUT>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for neuter agreement or class; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 818,
+      "token": "<MORPH_N_PATHIL>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for noun-based பதில் relational construction; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 819,
+      "token": "<MORPH_OTHER>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for other inherited FST category; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 820,
+      "token": "<MORPH_PRIV>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for privative meaning; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 821,
+      "token": "<MORPH_PSP_ALLAAMAL>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning without. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 822,
+      "token": "<MORPH_PSP_APPAAL>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning beyond or on the other side. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 823,
+      "token": "<MORPH_PSP_APPAAL_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from beyond or on the other side. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 824,
+      "token": "<MORPH_PSP_APPURAM>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning after. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 825,
+      "token": "<MORPH_PSP_ARUKIL>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning near. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 826,
+      "token": "<MORPH_PSP_ARUKIL_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from near. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 827,
+      "token": "<MORPH_PSP_ATIYIL>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning under or at the foot of. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 828,
+      "token": "<MORPH_PSP_ATIYIL_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from under or at the foot of. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 829,
+      "token": "<MORPH_PSP_ETHIR>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning opposite or against. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 830,
+      "token": "<MORPH_PSP_ETHIRE>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning opposite or facing. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 831,
+      "token": "<MORPH_PSP_ETHIRE_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from opposite or facing. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 832,
+      "token": "<MORPH_PSP_ETHIR_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from opposite or against. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 833,
+      "token": "<MORPH_PSP_IDAIYIL>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning between or among. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 834,
+      "token": "<MORPH_PSP_IDAIYL>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning between or among. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 835,
+      "token": "<MORPH_PSP_IDAYIL_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from between or among. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 836,
+      "token": "<MORPH_PSP_ILLAAMAL>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning without. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 837,
+      "token": "<MORPH_PSP_KEEL>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning below. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 838,
+      "token": "<MORPH_PSP_KEELE>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning below. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 839,
+      "token": "<MORPH_PSP_KEELE_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from below. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 840,
+      "token": "<MORPH_PSP_KEEL_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from below. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 841,
+      "token": "<MORPH_PSP_KURUKKE>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning across. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 842,
+      "token": "<MORPH_PSP_KURUKKE_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from across. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 843,
+      "token": "<MORPH_PSP_MEEL>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning above or on. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 844,
+      "token": "<MORPH_PSP_MEELE>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning above or on. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 845,
+      "token": "<MORPH_PSP_MEELE_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from above or on. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 846,
+      "token": "<MORPH_PSP_MEEL_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from above or on. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 847,
+      "token": "<MORPH_PSP_MUN>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning before or in front of. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 848,
+      "token": "<MORPH_PSP_MUNNAAL>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning before. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 849,
+      "token": "<MORPH_PSP_MUNNAAL_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from before. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 850,
+      "token": "<MORPH_PSP_MUNNE>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning before or in front. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 851,
+      "token": "<MORPH_PSP_MUN_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from before or in front of. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 852,
+      "token": "<MORPH_PSP_NADUVIL>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning in the middle of. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 853,
+      "token": "<MORPH_PSP_NADUVIL_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from in the middle of. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 854,
+      "token": "<MORPH_PSP_PIN>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning after or behind. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 855,
+      "token": "<MORPH_PSP_PINNAAL>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning after or behind. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 856,
+      "token": "<MORPH_PSP_PINNAAL_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from after or behind. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 857,
+      "token": "<MORPH_PSP_PINNE>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning after or behind. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 858,
+      "token": "<MORPH_PSP_PINNE_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from after or behind. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 859,
+      "token": "<MORPH_PSP_PIN_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from after or behind. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 860,
+      "token": "<MORPH_PSP_PIRAKU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning after. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 861,
+      "token": "<MORPH_PSP_POL>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning like or as. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 862,
+      "token": "<MORPH_PSP_POLA>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning like or as. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 863,
+      "token": "<MORPH_PSP_TAVIRA>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning except. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 864,
+      "token": "<MORPH_PSP_ULE>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning inside. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 865,
+      "token": "<MORPH_PSP_ULE_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from inside. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 866,
+      "token": "<MORPH_PSP_ULLE>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning inside. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 867,
+      "token": "<MORPH_PSP_ULLE_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from inside. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 868,
+      "token": "<MORPH_PSP_UL_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from inside. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 869,
+      "token": "<MORPH_PSP_VALIYAAKA>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning through or by way of. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 870,
+      "token": "<MORPH_PSP_VARAIKKUM>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning until or up to. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 871,
+      "token": "<MORPH_PSP_VARAIYIL>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning until or within the limit. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 872,
+      "token": "<MORPH_PSP_VELIYEE>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning outside. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 873,
+      "token": "<MORPH_PSP_VELIYEE_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from outside. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 874,
+      "token": "<MORPH_PSP_VELIYIL>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning outside. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 875,
+      "token": "<MORPH_PSP_VELIYIL_IRUNTU>",
+      "category": "legacy postposition",
+      "description": "Legacy FST postposition label meaning from outside. It remains fixed in the released vocabulary pending a narrower named mapping.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 876,
+      "token": "<MORPH_REGISTER>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for register label; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 877,
+      "token": "<MORPH_SANDHI_C>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for legacy c-type sandhi; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 878,
+      "token": "<MORPH_SANDHI_K>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for legacy k-type sandhi; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 879,
+      "token": "<MORPH_SANDHI_P>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for legacy p-type sandhi; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 880,
+      "token": "<MORPH_SANDHI_T>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for legacy t-type sandhi; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 881,
+      "token": "<MORPH_UNTIL>",
+      "category": "legacy FST label",
+      "description": "Legacy FST label for until or boundary meaning; retained as a fixed readable factor rather than created dynamically.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 882,
+      "token": "<MORPH_VPARTP_TAANDI>",
+      "category": "legacy verbal relation",
+      "description": "Legacy participial relation meaning beyond or crossing.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 883,
+      "token": "<MORPH_VPART_CUTTI>",
+      "category": "legacy verbal relation",
+      "description": "Legacy verbal-participle relation meaning around or concerning.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 884,
+      "token": "<MORPH_VPART_KONDU>",
+      "category": "legacy verbal relation",
+      "description": "Legacy verbal-participle relation meaning with, by, or while doing.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 885,
+      "token": "<MORPH_VPART_OTTI>",
+      "category": "legacy verbal relation",
+      "description": "Legacy verbal-participle relation meaning adjoining or in relation to.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 886,
+      "token": "<MORPH_VPART_TAANDI>",
+      "category": "legacy verbal relation",
+      "description": "Legacy verbal-participle relation meaning beyond or crossing.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 887,
+      "token": "<MORPH_VPART_TAVIRTU>",
+      "category": "legacy verbal relation",
+      "description": "Legacy verbal-participle relation meaning excluding or avoiding.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 888,
+      "token": "<MORPH_VPART_VAITTU>",
+      "category": "legacy verbal relation",
+      "description": "Legacy verbal-participle relation meaning using, keeping, or having done.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 889,
+      "token": "<MORPH_VPART_VIDA>",
+      "category": "legacy verbal relation",
+      "description": "Legacy verbal-participle relation meaning than or leaving.",
+      "source": "normalized inherited FST tag"
+    },
+    {
+      "id": 890,
+      "token": "<NEGATIVE_PARTICIPLE>",
+      "category": "participle",
+      "description": "Marks a negative non-finite or modifying verb form.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 891,
+      "token": "<NUM_CARDINAL>",
+      "category": "number and quantity",
+      "description": "Cardinal number: one, two, three, and so on.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 892,
+      "token": "<NUM_FRACTION>",
+      "category": "number and quantity",
+      "description": "Fractional number.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 893,
+      "token": "<NUM_ORDINAL>",
+      "category": "number and quantity",
+      "description": "Ordinal number: first, second, and so on.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 894,
+      "token": "<NUM_PL>",
+      "category": "number and quantity",
+      "description": "Plural number.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 895,
+      "token": "<NUM_SG>",
+      "category": "number and quantity",
+      "description": "Singular number.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 896,
+      "token": "<PART_ONLY>",
+      "category": "grammatical or semantic feature",
+      "description": "Restrictive particle: only or just.",
+      "source": "reviewed lexical special or FST mapping"
+    },
+    {
+      "id": 897,
+      "token": "<PERSON_1PL>",
+      "category": "person and agreement",
+      "description": "First person plural: we.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 898,
+      "token": "<PERSON_1SG>",
+      "category": "person and agreement",
+      "description": "First person singular: I.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 899,
+      "token": "<PERSON_2PL>",
+      "category": "person and agreement",
+      "description": "Second person plural: you (plural).",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 900,
+      "token": "<PERSON_2PL_HON>",
+      "category": "person and agreement",
+      "description": "Second person plural honorific: respectful you.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 901,
+      "token": "<PERSON_2SG>",
+      "category": "person and agreement",
+      "description": "Second person singular: you.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 902,
+      "token": "<PERSON_2SG_HON>",
+      "category": "person and agreement",
+      "description": "Second person singular honorific: respectful you.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 903,
+      "token": "<PERSON_3PL>",
+      "category": "person and agreement",
+      "description": "Third person plural: they.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 904,
+      "token": "<PERSON_3PL_EPICENE>",
+      "category": "person and agreement",
+      "description": "Third person plural without a masculine/feminine distinction.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 905,
+      "token": "<PERSON_3PL_NEUT>",
+      "category": "person and agreement",
+      "description": "Third person plural neuter or non-human.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 906,
+      "token": "<PERSON_3SG>",
+      "category": "person and agreement",
+      "description": "Third person singular.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 907,
+      "token": "<PERSON_3SG_EPICENE>",
+      "category": "person and agreement",
+      "description": "Third person singular without a masculine/feminine distinction.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 908,
+      "token": "<PERSON_3SG_FEM>",
+      "category": "person and agreement",
+      "description": "Third person singular feminine: she.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 909,
+      "token": "<PERSON_3SG_HON>",
+      "category": "person and agreement",
+      "description": "Third person singular honorific.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 910,
+      "token": "<PERSON_3SG_MASC>",
+      "category": "person and agreement",
+      "description": "Third person singular masculine: he.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 911,
+      "token": "<PERSON_3SG_NEUT>",
+      "category": "person and agreement",
+      "description": "Third person singular neuter: it.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 912,
+      "token": "<POLARITY_NEG>",
+      "category": "polarity",
+      "description": "Negative polarity.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 913,
+      "token": "<POLARITY_POS>",
+      "category": "polarity",
+      "description": "Positive polarity.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 914,
+      "token": "<POSTPOSITION>",
+      "category": "postposition and relation",
+      "description": "General postposition or relational function word.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 915,
+      "token": "<POST_ABOUT>",
+      "category": "postposition and relation",
+      "description": "Relation meaning about or concerning.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 916,
+      "token": "<POST_ACCORDING_TO>",
+      "category": "postposition and relation",
+      "description": "Relation meaning according to or in the manner stated.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 917,
+      "token": "<POST_AFTER>",
+      "category": "postposition and relation",
+      "description": "Temporal or spatial relation meaning after or behind.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 918,
+      "token": "<POST_AMONG>",
+      "category": "postposition and relation",
+      "description": "Relation meaning among or between.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 919,
+      "token": "<POST_BEFORE>",
+      "category": "postposition and relation",
+      "description": "Temporal or spatial relation meaning before or in front of.",
+      "source": "reviewed lexical special or FST mapping"
+    },
+    {
+      "id": 920,
+      "token": "<POST_LIKE_AS>",
+      "category": "postposition and relation",
+      "description": "Similarity relation: like or as.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 921,
+      "token": "<POST_TOWARD>",
+      "category": "postposition and relation",
+      "description": "Direction relation: toward.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 922,
+      "token": "<POST_UNTIL>",
+      "category": "postposition and relation",
+      "description": "Boundary relation: until or up to.",
+      "source": "reviewed lexical special or FST mapping"
+    },
+    {
+      "id": 923,
+      "token": "<POST_WITHIN_BY>",
+      "category": "postposition and relation",
+      "description": "Interior or deadline relation: within, inside, or by.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 924,
+      "token": "<POS_ADJ>",
+      "category": "part of speech",
+      "description": "Part of speech: adjective.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 925,
+      "token": "<POS_ADV>",
+      "category": "part of speech",
+      "description": "Part of speech: adverb.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 926,
+      "token": "<POS_INTERJECTION>",
+      "category": "part of speech",
+      "description": "Part of speech: interjection.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 927,
+      "token": "<POS_NOUN>",
+      "category": "part of speech",
+      "description": "Part of speech: noun.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 928,
+      "token": "<POS_PART>",
+      "category": "part of speech",
+      "description": "Part of speech: particle.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 929,
+      "token": "<POS_PARTICIPIAL_NOUN>",
+      "category": "part of speech",
+      "description": "Part of speech: noun formed from a participle.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 930,
+      "token": "<POS_PRONOUN>",
+      "category": "part of speech",
+      "description": "Part of speech: pronoun.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 931,
+      "token": "<POS_QUANTIFIER>",
+      "category": "part of speech",
+      "description": "Part of speech: quantifier.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 932,
+      "token": "<POS_VERBAL_NOUN>",
+      "category": "part of speech",
+      "description": "Part of speech: verb-derived action or event noun.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 933,
+      "token": "<PRESENTATIVE>",
+      "category": "grammatical or semantic feature",
+      "description": "Presentative expression used to point out or introduce something.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 934,
+      "token": "<PRIVATIVE_WITHOUT>",
+      "category": "grammatical or semantic feature",
+      "description": "Privative meaning: without or lacking.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 935,
+      "token": "<PRON_EXCLUSIVE>",
+      "category": "pronoun",
+      "description": "Exclusive first-person plural: we, excluding the addressee.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 936,
+      "token": "<PRON_INCLUSIVE>",
+      "category": "pronoun",
+      "description": "Inclusive first-person plural: we, including the addressee.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 937,
+      "token": "<PRON_POSSESSIVE>",
+      "category": "pronoun",
+      "description": "Possessive pronoun function.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 938,
+      "token": "<PRON_REFLEXIVE>",
+      "category": "pronoun",
+      "description": "Reflexive pronoun function: self.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 939,
+      "token": "<QUANT_ALL>",
+      "category": "grammatical or semantic feature",
+      "description": "Universal quantity: all or every.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 940,
+      "token": "<RECIPROCAL>",
+      "category": "grammatical or semantic feature",
+      "description": "Reciprocal relation: each other.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 941,
+      "token": "<REDUPLICATION>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks a repeated form used for distribution, emphasis, or iteration.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 942,
+      "token": "<REGISTER_COLLOQUIAL>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks a colloquial form.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 943,
+      "token": "<REL_ATTACH>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks an attaching or related-to construction.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 944,
+      "token": "<SANDHI_C>",
+      "category": "sandhi",
+      "description": "Marks c-type linking sandhi.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 945,
+      "token": "<SANDHI_K>",
+      "category": "sandhi",
+      "description": "Marks k-type linking sandhi.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 946,
+      "token": "<SANDHI_P>",
+      "category": "sandhi",
+      "description": "Marks p-type linking sandhi.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 947,
+      "token": "<SANDHI_T>",
+      "category": "sandhi",
+      "description": "Marks t-type linking sandhi.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 948,
+      "token": "<SEM_HUMAN>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks reference to a human being or group.",
+      "source": "project semantic mapping"
+    },
+    {
+      "id": 949,
+      "token": "<SEM_PURPOSE>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks purpose or intended use.",
+      "source": "project semantic mapping"
+    },
+    {
+      "id": 950,
+      "token": "<STEM_OBLIQUE>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks a changed noun stem used before a case ending.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 951,
+      "token": "<TEMPORAL_IMMEDIATE>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks immediate succession: as soon as.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 952,
+      "token": "<TEMPORAL_WHEN>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks a time relation: when or while.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 953,
+      "token": "<TENSE_FUTURE>",
+      "category": "tense",
+      "description": "Future tense.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 954,
+      "token": "<TENSE_PAST>",
+      "category": "tense",
+      "description": "Past tense.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 955,
+      "token": "<TENSE_PRESENT>",
+      "category": "tense",
+      "description": "Present tense.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 956,
+      "token": "<TITLE_HONORIFIC>",
+      "category": "grammatical or semantic feature",
+      "description": "Marks an honorific title.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 957,
+      "token": "<VERBAL_PARTICIPLE>",
+      "category": "verb form",
+      "description": "Marks a non-finite verb that links to a following action.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 958,
+      "token": "<VERB_COMPLEX>",
+      "category": "verb form",
+      "description": "Broad inherited FST label for a complex verb construction.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 959,
+      "token": "<VERB_FINITE>",
+      "category": "verb form",
+      "description": "Broad inherited FST label for a finite verb.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 960,
+      "token": "<VERB_IMPERATIVE>",
+      "category": "verb form",
+      "description": "Imperative verb form: a command or request.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 961,
+      "token": "<VERB_INFINITIVE>",
+      "category": "verb form",
+      "description": "Infinitive verb form.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 962,
+      "token": "<VERB_NONFINITE>",
+      "category": "verb form",
+      "description": "Broad inherited FST label for a non-finite verb.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 963,
+      "token": "<VOICE_CAUSATIVE>",
+      "category": "voice",
+      "description": "Causative voice: causes someone or something to act.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    },
+    {
+      "id": 964,
+      "token": "<VOICE_PASSIVE>",
+      "category": "voice",
+      "description": "Passive voice: presents the affected participant rather than the actor.",
+      "source": "mapped FST tag or reviewed semantic mapping"
+    }
+  ]
+}

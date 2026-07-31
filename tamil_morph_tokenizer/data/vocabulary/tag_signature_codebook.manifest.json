@@ -1,0 +1,21 @@
+{
+  "entries": 94569,
+  "fst_artifacts": {
+    "adj.fst": "f0a6a7430787f93f2ca12126eb412961f06ff1986d3d2dc8c23d738c4c197ded",
+    "adv.fst": "6f015ed01d132233d14a2ab9ee200db42a2bb3f9c6cc704627b1abfd4eb60d49",
+    "noun.fst": "6749cf91bb9ba22b2a501ddbdba55893f4c21690e36445e0bb3c55bbd73ec791",
+    "part.fst": "8bec38f1b261c63de0d09c2cb80e1ea84a693010ffd8a28d465a8d532b5ba56b",
+    "pronoun.fst": "dcc53b52a9bf2373103d3175fc6f4114c8dc0e18b469e5a5f7d7984db02da587",
+    "verb-auxiliary.fst": "32396d07435b2efaceb8f332af945d04e89acb5412175a4fb70c2e22e840e2be",
+    "verb-c-rest.fst": "4ea4000bc150af6f3e04991c21f0226142558c4b471266a82ca7a95515b03df8",
+    "verb-c11.fst": "64f5a72f1c4956c63d2012361946ef55760bbe46a3be24cbb699caf6a4ce5852",
+    "verb-c12.fst": "a136a37a354f1d10e5246fdfe9dc506bf7f1c438ca121a6df5aaf9b34d5e123a",
+    "verb-c3.fst": "84a8e1236b9030a3e92b805db87425d49f7f1430352a95007d3b160cac4c0f8f",
+    "verb-c4.fst": "cd52f98beba35cfe44015ac165257b32c57314c163b290cfe31fe4468b5c52eb",
+    "verb-c62.fst": "8afc73cc419c27bea98f7857094513737c1641c8335676a391c800cb7d6caca9"
+  },
+  "keys": 54263,
+  "maximum_variants_per_key": 64,
+  "schema_version": "0.1.0",
+  "sha256": "786b2a79dea48a0e21d5acb6164d939f69ab4d459009bd9ee6f2a9c3f2a1146a"
+}

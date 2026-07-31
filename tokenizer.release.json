@@ -1,0 +1,85 @@
+{
+  "contracts": {
+    "output": "docs/TOKENIZER_OUTPUT_CONTRACT.md",
+    "reversibility": "docs/REVERSIBLE_TOKENIZER_DESIGN.md",
+    "semantic_tokens": "docs/SEMANTIC_TOKENS.md"
+  },
+  "morphology": {
+    "lock_file": "morphology.lock.json",
+    "runtime_artifact_count": 12,
+    "version": "0.1.0-rc8"
+  },
+  "release": {
+    "date": "2026-07-26",
+    "name": "tamil-morph-tokenizer",
+    "status": "research-preview",
+    "version": "0.1.0-rc10"
+  },
+  "schema_version": "1.0.0",
+  "validation": {
+    "blocking_vocabulary_issues": 0,
+    "exact_signature_roundtrip_failures": 0,
+    "exact_signature_roundtrips": 94569,
+    "exact_tag_patterns": 94569,
+    "splitter_unreachable_lemmas": 0
+  },
+  "vocabulary": {
+    "artifacts": [
+      {
+        "file": "manifest.json",
+        "sha256": "1bcabffe0f8d81975249c0029745d8cbe2fcec90f5a0c3e87550933a32519dd5",
+        "size_bytes": 3420
+      },
+      {
+        "file": "productive_compound_decompositions.manifest.json",
+        "sha256": "273f4f33e5147140959ecfe8a100852295f588079bf345ee38a768c3ea938321",
+        "size_bytes": 1205
+      },
+      {
+        "file": "productive_compound_decompositions.tsv",
+        "sha256": "814a61e149d37baaf00cec4ddcc34b94c05f15523a5188f78bd377e34c1b1b8c",
+        "size_bytes": 6216619
+      },
+      {
+        "file": "tag_signature_codebook.manifest.json",
+        "sha256": "6cbac8058460ffcc525cb5d8ea43fcc1f51b10d5079f529192112531382e41f5",
+        "size_bytes": 1252
+      },
+      {
+        "file": "tag_signature_codebook.tsv",
+        "sha256": "786b2a79dea48a0e21d5acb6164d939f69ab4d459009bd9ee6f2a9c3f2a1146a",
+        "size_bytes": 25194608
+      },
+      {
+        "file": "tamil_graphemes.txt",
+        "sha256": "38c8a727b54d7d97ce50e21debaaa01a4cae06a55c3e747226752525f93e16d5",
+        "size_bytes": 2512
+      },
+      {
+        "file": "tokens.txt",
+        "sha256": "1c54680c917300c0c37d61ac1d80b87f2e8c4311fecc74961a15fa4d7264ea1e",
+        "size_bytes": 4259835
+      },
+      {
+        "file": "validation_issues.csv",
+        "sha256": "ee0582c5d14a4aee8537ec236a874b2ac2597b67d101e565f22ab5220094e7b7",
+        "size_bytes": 26
+      }
+    ],
+    "counts": {
+      "blocking_lemma_issues": 0,
+      "byte_tokens": 256,
+      "decomposition_only_lexical_strings": 13,
+      "excluded_productive_compounds": 78538,
+      "fst_emitted_lexical_strings": 218419,
+      "lemmas": 139895,
+      "semantic_tokens": 284,
+      "splitter_unreachable_lemmas": 0,
+      "stale_decomposition_entries_ignored": 0,
+      "tamil_grapheme_tokens": 378,
+      "tokens": 140922
+    },
+    "schema_version": "0.4.0",
+    "sha256": "1c54680c917300c0c37d61ac1d80b87f2e8c4311fecc74961a15fa4d7264ea1e"
+  }
+}

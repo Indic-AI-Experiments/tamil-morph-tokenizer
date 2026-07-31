@@ -1,0 +1,73 @@
+{
+  "components": [
+    {
+      "id": "project-software",
+      "license": "Apache-2.0",
+      "name": "Project-authored tokenizer, build, API, test, and evaluation software",
+      "redistribution_status": "cleared",
+      "source": "this repository"
+    },
+    {
+      "id": "project-documentation",
+      "license": "CC-BY-4.0",
+      "name": "Project-authored documentation, article material, figures, and aggregate results",
+      "redistribution_status": "cleared",
+      "source": "this repository"
+    },
+    {
+      "id": "public-lexical-runtime-layer",
+      "license": "CC-BY-SA-4.0",
+      "name": "Combined lexical/data layer of compiled FSTs and fixed tokenizer vocabulary",
+      "redistribution_status": "cleared-with-conditions",
+      "source": "project derivatives with Tamil Lexicon authorization and Wiktionary-derived material"
+    },
+    {
+      "id": "thamizhi-morph",
+      "license": "Apache-2.0",
+      "name": "ThamizhiMorph",
+      "pinned_revision": "a296417ac603fd44eda35645369f1257d96bed89",
+      "redistribution_status": "cleared-with-conditions",
+      "source": "https://github.com/sarves/thamizhi-morph"
+    },
+    {
+      "id": "tamil-lexicon-headwords",
+      "license": "CC-BY-NC-ND-2.0",
+      "name": "Tamil Lexicon headword list supplied through UChicago",
+      "redistribution_status": "cleared-for-derivative-runtime-distribution",
+      "supplemental_permission": "The project owner confirms separate authorization to use the supplied Tamil Lexicon data freely and distribute derivative works freely. Original and processed source lists are excluded from public bundles; the combined derivative lexical/data layer is distributed under CC-BY-SA-4.0.",
+      "source": "University of Madras Tamil Lexicon / University of Chicago DSAL"
+    },
+    {
+      "id": "tamil-wiktionary",
+      "license": "CC-BY-SA-4.0 OR GFDL-1.3-or-later",
+      "name": "Tamil Wiktionary dumps",
+      "redistribution_status": "cleared-with-conditions",
+      "source": "https://dumps.wikimedia.org/tawiktionary/"
+    },
+    {
+      "id": "vuizur-tamil-wiktionary",
+      "license": "CC-BY-SA-3.0 OR GFDL-1.3-or-later",
+      "name": "Vuizur Tamil-English Wiktionary dictionary",
+      "redistribution_status": "cleared-with-conditions",
+      "source": "https://github.com/Vuizur/Wiktionary-Dictionaries"
+    },
+    {
+      "id": "unicode-cldr",
+      "license": "Unicode-3.0",
+      "name": "Unicode CLDR Tamil territory names",
+      "pinned_revision": "d2988851207ba643d9ccc4c2e895e5ca1f4fbaf3",
+      "redistribution_status": "cleared-with-conditions",
+      "source": "https://github.com/unicode-org/cldr-json"
+    },
+    {
+      "id": "wikidata",
+      "license": "CC0-1.0",
+      "name": "Wikidata Tamil entity labels",
+      "snapshot_date": "2026-07-14",
+      "redistribution_status": "cleared",
+      "source": "https://query.wikidata.org/sparql"
+    }
+  ],
+  "schema_version": "1.0.0",
+  "status_date": "2026-07-23"
+}

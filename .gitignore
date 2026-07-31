@@ -1,0 +1,11 @@
+.DS_Store
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+*.egg-info/
+
+# Private lexical-source and generated audit lists. Public releases contain
+# only the licensed runtime derivatives described in LICENSE_POLICY.md.
+tamil_morph_tokenizer/data/wordlists/

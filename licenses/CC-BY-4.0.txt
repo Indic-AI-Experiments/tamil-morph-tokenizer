@@ -1,0 +1,10 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Canonical license and legal code:
+
+https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+This canonical license is incorporated by reference for project-authored
+documentation, articles, figures, aggregate results, and independently created
+non-software data unless a component is marked otherwise.

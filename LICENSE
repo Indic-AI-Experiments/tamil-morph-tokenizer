@@ -1,0 +1,31 @@
+Tamil Morph Tokenizer — Component License Notice
+
+Copyright 2026 Anand Murugan
+
+This repository is component-licensed because it combines software, linguistic
+runtime artifacts, documentation, and third-party material.
+
+Project-authored software is licensed under the Apache License, Version 2.0.
+The complete text is at `release/licenses/Apache-2.0.txt` in the source tree,
+at `licenses/Apache-2.0.txt` in release bundles, and at:
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Project-authored documentation, articles, figures, and independently created
+data are licensed under Creative Commons Attribution 4.0 International unless
+a file says otherwise:
+
+    https://creativecommons.org/licenses/by/4.0/
+
+The lexical/data layer of the compiled FST models and fixed tokenizer
+vocabulary is distributed under Creative Commons Attribution-ShareAlike 4.0
+International to preserve applicable Wiktionary ShareAlike terms:
+
+    https://creativecommons.org/licenses/by-sa/4.0/
+
+The Apache-2.0 license continues to govern the software and FST-program layer
+of those artifacts. Third-party components retain their original terms.
+
+See `LICENSE_POLICY.md` and `NOTICE` for the authoritative component map,
+attributions, exceptions, and redistribution instructions. This notice does
+not relicense third-party material or expand the rights held by this project.
